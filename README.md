@@ -79,3 +79,22 @@ This roadmap includes:
 - Fine-tuning Techniques
 - Multi-modal AI Systems
 - Production Deployment
+
+---
+
+# 🟠 SECTION 3: AGENTIC AI
+
+> **The Autonomous Future: Build intelligent agents that can reason, plan, and act independently**
+
+## 🤖 Complete Agentic AI Roadmap
+
+Master the development of autonomous AI agents and systems:
+
+### 🔗 **[Roadmap To Learn Agentic AI](https://github.com/krishnaik06/Roadmap-To-Learn-Agentic-AI)**
+
+This roadmap covers:
+- AI Agent Fundamentals
+- LangChain & LangGraph
+- Multi-Agent Systems
+- RAG (Retrieval-Augmented Generation)
+- Tool Use & Function Calling
