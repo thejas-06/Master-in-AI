@@ -52,3 +52,12 @@ graph TD
 # 🔵 SECTION 1: DATA SCIENCE, NLP & COMPUTER VISION
 
 > **The Foundation of AI: Master classical machine learning, deep learning, and specialized domains**
+### 🔗 **[Perfect Roadmap To Learn Data Science In 2025](https://github.com/krishnaik06/Perfect-Roadmap-To-Learn-Data-Science-In-2025)**
+
+This comprehensive roadmap covers:
+- Python Programming & Mathematics
+- Statistics & Machine Learning
+- Deep Learning Fundamentals
+- Computer Vision Applications
+- Natural Language Processing
+- MLOps & Deployment
