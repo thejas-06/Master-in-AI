@@ -23,9 +23,9 @@ Welcome to the most comprehensive AI learning roadmap for 2025! This guide prese
 
 | Path | Focus | Duration | Career Outcome |
 |------|-------|----------|----------------|
-| **🔵 Path 1** | Data Science, NLP, Computer Vision | 8-12 months | Data Scientist, ML Engineer |
-| **🟣 Path 2** | Generative AI & LLMs | 6-8 months | GenAI Engineer, AI Product Developer |
-| **🟠 Path 3** | Agentic AI & Autonomous Systems | 4-6 months | AI Architect, Agent Developer |
+| **🔵 Path 1** | Data Science, NLP, Computer Vision | 4 months | Data Scientist, ML Engineer |
+| **🟣 Path 2** | Generative AI & LLMs | 2 months | GenAI Engineer, AI Product Developer |
+| **🟠 Path 3** | Agentic AI & Autonomous Systems | 2 months | AI Architect, Agent Developer |
 
 ### 📊 Learning Approach
 
