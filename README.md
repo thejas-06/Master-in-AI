@@ -101,6 +101,38 @@ This roadmap covers:
 
 ---
 
+## 📚 Additional Learning Resources
+
+### 🎓 Udemy Courses Roadmap
+
+For structured video-based learning with hands-on projects:
+
+### 🔗 **[Complete Data Science And GenAI Course Roadmap - Udemy](https://github.com/krishnaik06/Complete-Data-Science-And-GenAI-Course-In-Udemy)**
+
+Access comprehensive Udemy courses covering:
+- Complete Python Programming
+- Data Science Bootcamp
+- Machine Learning & Deep Learning
+- Generative AI with LangChain
+- Agentic AI Development
+- Computer Vision & NLP
+
+### 🔴 Live Courses & Mentorship
+
+For interactive learning with live instruction and direct mentorship:
+
+### 🔗 **[Live Classes with Krish Naik](http://krishnaik.in/liveclasses)**
+
+Join live courses featuring:
+- Real-time Q&A sessions
+- Hands-on project guidance
+- Industry expert interactions
+- Career counseling
+- Certificate programs
+- Community support
+
+---
+
 ## 🎯 How to Use These Roadmaps
 
 1. **Choose Your Path**: Start with the section that aligns with your goals
