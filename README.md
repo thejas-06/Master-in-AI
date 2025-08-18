@@ -98,3 +98,20 @@ This roadmap covers:
 - Multi-Agent Systems
 - RAG (Retrieval-Augmented Generation)
 - Tool Use & Function Calling
+
+---
+
+## 🎯 How to Use These Roadmaps
+
+1. **Choose Your Path**: Start with the section that aligns with your goals
+2. **Follow the Repository**: Each linked repository contains detailed week-by-week plans
+3. **Complete Projects**: Hands-on projects are included in each roadmap
+4. **Track Progress**: Use the provided checklists to monitor your learning journey
+
+## 💡 Learning Recommendations
+
+- **Beginners**: Start with Section 1 (Data Science) for strong foundations
+- **Developers**: Can jump to Section 2 (Generative AI) if comfortable with programming
+- **Advanced Learners**: Explore Section 3 (Agentic AI) for cutting-edge AI systems
+
+---
