@@ -61,3 +61,21 @@ This comprehensive roadmap covers:
 - Computer Vision Applications
 - Natural Language Processing
 - MLOps & Deployment
+
+# 🟣 SECTION 2: GENERATIVE AI Complete Roadmap
+
+> **The Creative Revolution: Master Large Language Models, Diffusion Models, and Creative AI**
+
+## 🎨 Complete Generative AI Roadmap
+
+Explore the cutting-edge world of Generative AI with comprehensive learning resources:
+
+### 🔗 **[Roadmap To Learn Generative AI In 2025](https://github.com/krishnaik06/Roadmap-To-Learn-Generative-AI-In-2025)**
+
+This roadmap includes:
+- Large Language Models (LLMs)
+- Prompt Engineering
+- Diffusion Models & Image Generation
+- Fine-tuning Techniques
+- Multi-modal AI Systems
+- Production Deployment
