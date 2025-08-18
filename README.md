@@ -62,7 +62,7 @@ This comprehensive roadmap covers:
 - Natural Language Processing
 - MLOps & Deployment
 
-# 🟣 SECTION 2: GENERATIVE AI Complete Roadmap
+# 🟣 SECTION 2: GENERATIVE AI
 
 > **The Creative Revolution: Master Large Language Models, Diffusion Models, and Creative AI**
 
