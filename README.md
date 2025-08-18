@@ -231,13 +231,13 @@ A structured pathway to master Artificial Intelligence from fundamentals to adva
 ### 📖 Resources
 
 **🎥 YouTube (Free):**
-- [Andrej Karpathy - Building GPT from Scratch](https://www.youtube.com/watch?v=kCc8FmEb1nY)
+- [Generative AI Playlist](https://www.youtube.com/watch?v=HEHUpBO8UVc&list=PLA1lVIthbM1D5I6r5uY2K89X1KD2w5LNh)
 
 **💻 Udemy Course:**
-- [Generative AI: DALL-E, GPT-3, Stable Diffusion & Midjourney](https://www.udemy.com/course/generative-ai-art-dall-e-midjourney-stable-diffusion/)
+- [Complete Generative AI Course With Langchain and Huggingface](https://www.udemy.com/course/complete-generative-ai-course-with-langchain-and-huggingface/?couponCode=AUGUST02)
 
 **🔴 Live Course:**
-- [DeepLearning.AI - Generative AI with Large Language Models](https://www.coursera.org/learn/generative-ai-with-llms)
+- [Live Agentic AI And Generative AI Application With Cloud Bootcamp](https://www.krishnaik.in/liveclass/2.0%20Live%20Agentic%20AI%20And%20Generative%20AI%20Application%20With%20Cloud%20Bootcamp)
 
 ---
 
@@ -263,13 +263,14 @@ A structured pathway to master Artificial Intelligence from fundamentals to adva
 ### 📖 Resources
 
 **🎥 YouTube (Free):**
-- [Building AI Agents - Sam Witteveen](https://www.youtube.com/playlist?list=PL8motc6AQftn-X1HkaGG9KjmKtWImCKJS)
+- [Complete Agentic AI Playlist](https://www.youtube.com/watch?v=Qs_j5wRbVr8&list=PLZoTAELRMXVMBr14UQ30AFlnlQ7eL5wjl)
 
 **💻 Udemy Course:**
-- [LangChain: Develop AI web-apps with JavaScript and Python](https://www.udemy.com/course/langchain/)
+- [Complete Agentic AI Bootcamp With LangGraph and Langchain](https://www.udemy.com/course/complete-agentic-ai-bootcamp-with-langgraph-and-langchain/?couponCode=KEEPLEARNING)
+- [Ultimate RAG Bootcamp Using Langchain,LangGraph & Langsmith](https://www.udemy.com/course/ultimate-rag-bootcamp-using-langchainlanggraph-langsmith/?couponCode=KEEPLEARNING)
 
 **🔴 Live Course:**
-- [Berkeley - Deep Reinforcement Learning](http://rail.eecs.berkeley.edu/deeprlcourse/)
+- [2.0 Live Agentic AI And Generative AI Application With Cloud Bootcamp](https://www.krishnaik.in/liveclass/2.0%20Live%20Agentic%20AI%20And%20Generative%20AI%20Application%20With%20Cloud%20Bootcamp)
 
 ---
 
@@ -317,7 +318,7 @@ A structured pathway to master Artificial Intelligence from fundamentals to adva
 
 ## 💡 Final Notes
 
-This roadmap represents approximately 18-24 months of dedicated learning. Adjust the pace based on your background and available time. Remember that AI is a rapidly evolving field, so continuous learning is essential even after completing this roadmap.
+This roadmap represents approximately 8 months of dedicated learning. Adjust the pace based on your background and available time. Remember that AI is a rapidly evolving field, so continuous learning is essential even after completing this roadmap.
 
 **Last Updated:** August 2025
 
