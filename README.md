@@ -133,6 +133,8 @@ Join live courses featuring:
 
 ---
 
+We also provide free counselling and career guidance.📞Connect with our counselling team: +919111533440 or +9184848 37781
+
 ## 🎯 How to Use These Roadmaps
 
 1. **Choose Your Path**: Start with the section that aligns with your goals
