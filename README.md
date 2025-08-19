@@ -1,4 +1,4 @@
-# 🚀 AI Mastery Roadmap 2025: Three Core Paths to Excellence
+#  AI Mastery Roadmap 2025: Three Core Paths to Excellence
 
 <div align="center">
 
